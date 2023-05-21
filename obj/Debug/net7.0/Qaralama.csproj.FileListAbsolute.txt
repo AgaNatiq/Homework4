@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\Qaralama\Qaralama\bin\Debug\net7.0\Qaralama.exe
+C:\Users\acer\source\repos\Qaralama\Qaralama\bin\Debug\net7.0\Qaralama.deps.json
+C:\Users\acer\source\repos\Qaralama\Qaralama\bin\Debug\net7.0\Qaralama.runtimeconfig.json
+C:\Users\acer\source\repos\Qaralama\Qaralama\bin\Debug\net7.0\Qaralama.dll
+C:\Users\acer\source\repos\Qaralama\Qaralama\bin\Debug\net7.0\Qaralama.pdb
+C:\Users\acer\source\repos\Qaralama\Qaralama\obj\Debug\net7.0\Qaralama.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Qaralama\Qaralama\obj\Debug\net7.0\Qaralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\Qaralama\Qaralama\obj\Debug\net7.0\Qaralama.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Qaralama\Qaralama\obj\Debug\net7.0\Qaralama.AssemblyInfo.cs
+C:\Users\acer\source\repos\Qaralama\Qaralama\obj\Debug\net7.0\Qaralama.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Qaralama\Qaralama\obj\Debug\net7.0\Qaralama.dll
+C:\Users\acer\source\repos\Qaralama\Qaralama\obj\Debug\net7.0\refint\Qaralama.dll
+C:\Users\acer\source\repos\Qaralama\Qaralama\obj\Debug\net7.0\Qaralama.pdb
+C:\Users\acer\source\repos\Qaralama\Qaralama\obj\Debug\net7.0\Qaralama.genruntimeconfig.cache
+C:\Users\acer\source\repos\Qaralama\Qaralama\obj\Debug\net7.0\ref\Qaralama.dll
